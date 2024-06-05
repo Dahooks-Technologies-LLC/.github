@@ -2,10 +2,6 @@
 <h3 align="center">We are a team of passionate developers, designers, and technologists dedicated to building cutting-edge web and mobile applications. With a strong focus on quality, innovation, and customer satisfaction, we transform ideas into reality.</h3>
 
 ## 🌟 Our Expertise
-<p align="center">
-  <img src="https://example.com/your-logo.png" alt="Your Logo" width="150" style="box-shadow: 0 0 20px rgba(255, 255, 255, 1);">
-</p>
-
 - **Frontend Development:** React.js, Angular, Vue.js, Next.js, HTML, CSS, JavaScript, TailwindCSS
 - **Backend Development:** Node.js, Express.js, Django, Flask, Ruby on Rails, Laravel
 - **Mobile Development:** Flutter, React Native
@@ -51,22 +47,9 @@
 
 - **E-commerce Platform:** Scaled an e-commerce platform to handle millions of users with a robust backend and seamless user experience.
 - **Healthcare Application:** Developed a secure and compliant healthcare application with advanced features for patient management and telemedicine.
-- **Blockchain Solution:** Created a decentralized application for secure and transparent transactions using Ethereum blockchain.
+- **Blockchain Solution:** Created a decentralized application for secure and transparent transactions using the Ethereum blockchain.
 
 ## 📫 Get in Touch
-- **Email:** [contact@youragency.com](mailto:contact@youragency.com)
-- **LinkedIn:** [Your Agency LinkedIn Profile](https://linkedin.com/company/youragency)
-- **Twitter:** [Your Agency Twitter Handle](https://twitter.com/youragency)
-- **Website:** [www.youragency.com](https://www.youragency.com)
-
-## 👨‍💻 Meet Our Team
-
-- **[Team Member 1]:** Role - Brief bio or description.
-- **[Team Member 2]:** Role - Brief bio or description.
-- **[Team Member 3]:** Role - Brief bio or description.
-
-## 🌱 We're Hiring!
-We are always looking for talented individuals to join our team. Check out our [careers page](https://www.youragency.com/careers) for current openings.
-
-## 🤝 Let's Collaborate
-Have a project in mind? We'd love to hear from you! Reach out to us at [contact@youragency.com](mailto:contact@youragency.com) or visit our [website](https://www.youragency.com) to learn more about how we can help bring your vision to life.
+- **Email:** [contact@youragency.com](mailto:info@dahooks.com)
+- **LinkedIn:** [Your Agency LinkedIn Profile](https://www.linkedin.com/company/dahooks-technologies)
+- **Website:** [www.youragency.com](https://www.dahooks.com)
