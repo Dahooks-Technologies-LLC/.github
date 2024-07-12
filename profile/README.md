@@ -80,5 +80,5 @@
 
 ## 📫 Get in Touch
 - **Email:** [info@dahooks.com](info@dahooks.com)
-- **LinkedIn:** [Your Agency LinkedIn Profile](https://www.linkedin.com/company/dahooks-technologies)
+- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/company/dahooks-technologies)
 - **Website:** [www.dahooks.com](https://www.dahooks.com)
