@@ -25,23 +25,24 @@
 ### 1. [Project Name]
 **Description:** A brief description of what this project does and its key features.
 
-**Tech Stack:** React, Node.js, MongoDB  
-**GitHub Repository:** [Link to repository](https://github.com/youragency/project1)  
-**Live Demo:** [Link to live demo](https://example.com/project1-demo)
+**Tech Stack:** React, Node.js, MongoDB    
+**Live Demo:** [Link to live demo](https://www.warumleer.de/)
+
+### 1. [Project Name]
+
+**Tech Stack:** React, Node.js, MongoDB    
+**Live Demo:** [Link to live demo](https://www.drugnutritioninteractions.com/)
+
 
 ### 2. [Project Name]
 **Description:** A brief description of what this project does and its key features.
 
 **Tech Stack:** Flutter, Firebase  
-**GitHub Repository:** [Link to repository](https://github.com/youragency/project2)  
-**Live Demo:** [Link to live demo](https://example.com/project2-demo)
+**GitHub Repository:** [Link to repository]()  
+**Live Demo:** [Link to live demo]()
 
 ### 3. [Project Name]
 **Description:** A brief description of what this project does and its key features.
-
-**Tech Stack:** Django, PostgreSQL  
-**GitHub Repository:** [Link to repository](https://github.com/youragency/project3)  
-**Live Demo:** [Link to live demo](https://example.com/project3-demo)
 
 ## 📈 Case Studies
 
