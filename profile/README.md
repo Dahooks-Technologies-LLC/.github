@@ -22,26 +22,49 @@
 
 ## 🚀 Featured Projects
 
-### 1. [Project Name]
+### 1. Warumleer
 **Description:** A brief description of what this project does and its key features.
 
 **Tech Stack:** React, Node.js, MongoDB    
 **Live Demo:** [Link to live demo](https://www.warumleer.de/)
+**Live Demo:** [Link to live demo](https://admin.warumleer.de/)
 
-### 1. [Project Name]
+### 2. TATA AIA Calculator
+**Description:** A brief description of what this project does and its key features.
+
+**Tech Stack:** React, Node.js, MongoDB    
+**Live Demo:** [Link to live demo](https://tata-aia.taction.in/)
+
+### 3. DNI- Drug Nutrition Interactions
+**Description:** A brief description of what this project does and its key features.
 
 **Tech Stack:** React, Node.js, MongoDB    
 **Live Demo:** [Link to live demo](https://www.drugnutritioninteractions.com/)
+**Live Demo:** [Link to live demo](https://admin.drugnutritioninteractions.com/)
+
+### 4. Kaplan Professional ME
+**Description:** A brief description of what this project does and its key features.
+
+**Tech Stack:** PHP, CRM, SuiteCRM    
+**Live Demo:** [Link to live demo](https://crm.kaplanprofessionalme.com/)
+**Live Demo:** [Link to live demo](https://kaplanprofessionalme.com/)
+
+### 5. DNI- Drug Nutrition Interactions
+**Description:** A brief description of what this project does and its key features.
+
+**Tech Stack:** PHP, CRM, SuiteCRM    
+**Live Demo:** [Link to live demo](https://kaplanprofessionalme.com/)
 
 
-### 2. [Project Name]
+
+### 6. [Project Name]
 **Description:** A brief description of what this project does and its key features.
 
 **Tech Stack:** Flutter, Firebase  
 **GitHub Repository:** [Link to repository]()  
 **Live Demo:** [Link to live demo]()
 
-### 3. [Project Name]
+### 5. [Project Name]
 **Description:** A brief description of what this project does and its key features.
 
 ## 📈 Case Studies
@@ -51,6 +74,6 @@
 - **Blockchain Solution:** Created a decentralized application for secure and transparent transactions using the Ethereum blockchain.
 
 ## 📫 Get in Touch
-- **Email:** [contact@youragency.com](mailto:info@dahooks.com)
+- **Email:** [info@dahooks.com](info@dahooks.com)
 - **LinkedIn:** [Your Agency LinkedIn Profile](https://www.linkedin.com/company/dahooks-technologies)
-- **Website:** [www.youragency.com](https://www.dahooks.com)
+- **Website:** [www.dahooks.com](https://www.dahooks.com)
